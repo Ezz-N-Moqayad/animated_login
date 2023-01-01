@@ -21,7 +21,7 @@ class _LoginScreenState extends State<LoginScreen> {
   late RiveAnimationController controllerFail;
 
   final GlobalKey<FormState> formKey = GlobalKey<FormState>();
-  String testEmail = "mohamed.hassan@gmail.com";
+  String testEmail = "ezz.n.moq@gmail.com";
   String testPassword = "123456";
   final passwordFocusNode = FocusNode();
 
